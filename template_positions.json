@@ -1,0 +1,13 @@
+{
+  "origin": "top-left",
+  "fields": {
+    "receipt_number": {"x_pct": 0.73, "y_pct": 0.20, "max_width": 140},
+    "date": {"x_pct": 0.73, "y_pct": 0.24, "max_width": 140},
+    "received_from": {"x_pct": 0.12, "y_pct": 0.33, "max_width": 360},
+    "amount": {"x_pct": 0.12, "y_pct": 0.38, "max_width": 200},
+    "amount_words": {"x_pct": 0.12, "y_pct": 0.42, "max_width": 360},
+    "payment_method": {"x_pct": 0.12, "y_pct": 0.48, "max_width": 200},
+    "contribution_period": {"x_pct": 0.12, "y_pct": 0.53, "max_width": 360},
+    "authorized_by": {"x_pct": 0.12, "y_pct": 0.70, "max_width": 200}
+  }
+}

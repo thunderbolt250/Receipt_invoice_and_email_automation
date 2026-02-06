@@ -1,0 +1,18 @@
+Dear {student_first_name},
+
+I hope you are doing well.
+
+Thank you for your community contribution toward the {semester}. We truly appreciate your support and commitment to strengthening our community.
+
+Please find attached the official receipt acknowledging your payment of {amount}, received on {payment_date} via {payment_method}. Kindly keep this receipt for your personal records.
+
+Should you have any questions or require clarification regarding your contribution, feel free to reach out.
+
+Once again, thank you for your support and cooperation.
+
+Warm regards,
+
+{from_name}
+{from_title}
+Carnegie Mellon University Africa
+Email: {from_email}
